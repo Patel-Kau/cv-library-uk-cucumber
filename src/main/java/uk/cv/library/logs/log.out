@@ -1,0 +1,54 @@
+2023-05-19 12:05:516 INFO  HomePage :66 - Enter Job Title [[ChromeDriver: chrome on WINDOWS (26d9e398d1b9128297108c68abfc0c53)] -> xpath: //input[@id='keywords']]
+2023-05-19 12:05:697 INFO  HomePage :73 - Enter Location [[ChromeDriver: chrome on WINDOWS (26d9e398d1b9128297108c68abfc0c53)] -> xpath: (//input[@id='location'])[1]]
+2023-05-19 12:05:812 INFO  HomePage :80 - Select Distance [[ChromeDriver: chrome on WINDOWS (26d9e398d1b9128297108c68abfc0c53)] -> xpath: //select[@id='distance']]
+2023-05-19 12:05:965 INFO  HomePage :88 - Click on more search option link [[ChromeDriver: chrome on WINDOWS (26d9e398d1b9128297108c68abfc0c53)] -> xpath: //button[@id='toggle-hp-search']]
+2023-05-19 12:05:195 INFO  HomePage :95 - Enter minimum salary 35000
+2023-05-19 12:05:301 INFO  HomePage :100 - Enter Maximum salary 45000
+2023-05-19 12:05:417 INFO  HomePage :105 - Select salary type [[ChromeDriver: chrome on WINDOWS (26d9e398d1b9128297108c68abfc0c53)] -> xpath: //select[@id='salarytype']]
+2023-05-19 12:05:496 INFO  HomePage :110 - Select job type Contract
+2023-05-19 12:05:609 INFO  HomePage :115 - Click on find job Button [[ChromeDriver: chrome on WINDOWS (26d9e398d1b9128297108c68abfc0c53)] -> xpath: //input[@id='hp-search-btn']]
+2023-05-19 12:05:889 INFO  HomePage :66 - Enter Job Title [[ChromeDriver: chrome on WINDOWS (328dbe0bc96ffc226815b4df57f2dcf4)] -> xpath: //input[@id='keywords']]
+2023-05-19 12:05:52 INFO  HomePage :73 - Enter Location [[ChromeDriver: chrome on WINDOWS (328dbe0bc96ffc226815b4df57f2dcf4)] -> xpath: (//input[@id='location'])[1]]
+2023-05-19 12:05:155 INFO  HomePage :80 - Select Distance [[ChromeDriver: chrome on WINDOWS (328dbe0bc96ffc226815b4df57f2dcf4)] -> xpath: //select[@id='distance']]
+2023-05-19 12:05:252 INFO  HomePage :88 - Click on more search option link [[ChromeDriver: chrome on WINDOWS (328dbe0bc96ffc226815b4df57f2dcf4)] -> xpath: //button[@id='toggle-hp-search']]
+2023-05-19 12:05:431 INFO  HomePage :95 - Enter minimum salary 38000
+2023-05-19 12:05:523 INFO  HomePage :100 - Enter Maximum salary 48000
+2023-05-19 12:05:634 INFO  HomePage :105 - Select salary type [[ChromeDriver: chrome on WINDOWS (328dbe0bc96ffc226815b4df57f2dcf4)] -> xpath: //select[@id='salarytype']]
+2023-05-19 12:05:719 INFO  HomePage :110 - Select job type Contract
+2023-05-19 12:05:819 INFO  HomePage :115 - Click on find job Button [[ChromeDriver: chrome on WINDOWS (328dbe0bc96ffc226815b4df57f2dcf4)] -> xpath: //input[@id='hp-search-btn']]
+2023-05-19 12:05:986 INFO  HomePage :66 - Enter Job Title [[ChromeDriver: chrome on WINDOWS (fdf6e7fb06ebe40b9a6736f459ef7253)] -> xpath: //input[@id='keywords']]
+2023-05-19 12:05:153 INFO  HomePage :73 - Enter Location [[ChromeDriver: chrome on WINDOWS (fdf6e7fb06ebe40b9a6736f459ef7253)] -> xpath: (//input[@id='location'])[1]]
+2023-05-19 12:05:254 INFO  HomePage :80 - Select Distance [[ChromeDriver: chrome on WINDOWS (fdf6e7fb06ebe40b9a6736f459ef7253)] -> xpath: //select[@id='distance']]
+2023-05-19 12:05:401 INFO  HomePage :88 - Click on more search option link [[ChromeDriver: chrome on WINDOWS (fdf6e7fb06ebe40b9a6736f459ef7253)] -> xpath: //button[@id='toggle-hp-search']]
+2023-05-19 12:05:617 INFO  HomePage :95 - Enter minimum salary 30000
+2023-05-19 12:05:734 INFO  HomePage :100 - Enter Maximum salary 45000
+2023-05-19 12:05:843 INFO  HomePage :105 - Select salary type [[ChromeDriver: chrome on WINDOWS (fdf6e7fb06ebe40b9a6736f459ef7253)] -> xpath: //select[@id='salarytype']]
+2023-05-19 12:05:912 INFO  HomePage :110 - Select job type Permanent
+2023-05-19 12:05:19 INFO  HomePage :115 - Click on find job Button [[ChromeDriver: chrome on WINDOWS (fdf6e7fb06ebe40b9a6736f459ef7253)] -> xpath: //input[@id='hp-search-btn']]
+2023-05-19 12:05:938 INFO  HomePage :66 - Enter Job Title [[ChromeDriver: chrome on WINDOWS (5b107633c49da3b0cc5e9589a0d372c8)] -> xpath: //input[@id='keywords']]
+2023-05-19 12:05:96 INFO  HomePage :73 - Enter Location [[ChromeDriver: chrome on WINDOWS (5b107633c49da3b0cc5e9589a0d372c8)] -> xpath: (//input[@id='location'])[1]]
+2023-05-19 12:05:225 INFO  HomePage :80 - Select Distance [[ChromeDriver: chrome on WINDOWS (5b107633c49da3b0cc5e9589a0d372c8)] -> xpath: //select[@id='distance']]
+2023-05-19 12:05:330 INFO  HomePage :88 - Click on more search option link [[ChromeDriver: chrome on WINDOWS (5b107633c49da3b0cc5e9589a0d372c8)] -> xpath: //button[@id='toggle-hp-search']]
+2023-05-19 12:05:502 INFO  HomePage :95 - Enter minimum salary 4000
+2023-05-19 12:05:588 INFO  HomePage :100 - Enter Maximum salary 5000
+2023-05-19 12:05:684 INFO  HomePage :105 - Select salary type [[ChromeDriver: chrome on WINDOWS (5b107633c49da3b0cc5e9589a0d372c8)] -> xpath: //select[@id='salarytype']]
+2023-05-19 12:05:751 INFO  HomePage :110 - Select job type Permanent
+2023-05-19 12:05:842 INFO  HomePage :115 - Click on find job Button [[ChromeDriver: chrome on WINDOWS (5b107633c49da3b0cc5e9589a0d372c8)] -> xpath: //input[@id='hp-search-btn']]
+2023-05-19 12:05:756 INFO  HomePage :66 - Enter Job Title [[ChromeDriver: chrome on WINDOWS (654a1f1402f5de923a4456465b5c0426)] -> xpath: //input[@id='keywords']]
+2023-05-19 12:05:927 INFO  HomePage :73 - Enter Location [[ChromeDriver: chrome on WINDOWS (654a1f1402f5de923a4456465b5c0426)] -> xpath: (//input[@id='location'])[1]]
+2023-05-19 12:05:24 INFO  HomePage :80 - Select Distance [[ChromeDriver: chrome on WINDOWS (654a1f1402f5de923a4456465b5c0426)] -> xpath: //select[@id='distance']]
+2023-05-19 12:05:215 INFO  HomePage :88 - Click on more search option link [[ChromeDriver: chrome on WINDOWS (654a1f1402f5de923a4456465b5c0426)] -> xpath: //button[@id='toggle-hp-search']]
+2023-05-19 12:05:417 INFO  HomePage :95 - Enter minimum salary 50
+2023-05-19 12:05:521 INFO  HomePage :100 - Enter Maximum salary 75
+2023-05-19 12:05:623 INFO  HomePage :105 - Select salary type [[ChromeDriver: chrome on WINDOWS (654a1f1402f5de923a4456465b5c0426)] -> xpath: //select[@id='salarytype']]
+2023-05-19 12:05:687 INFO  HomePage :110 - Select job type Contract
+2023-05-19 12:05:787 INFO  HomePage :115 - Click on find job Button [[ChromeDriver: chrome on WINDOWS (654a1f1402f5de923a4456465b5c0426)] -> xpath: //input[@id='hp-search-btn']]
+2023-05-19 12:05:482 INFO  HomePage :66 - Enter Job Title [[ChromeDriver: chrome on WINDOWS (7f71abee4d861f56c182b2345766bab3)] -> xpath: //input[@id='keywords']]
+2023-05-19 12:05:627 INFO  HomePage :73 - Enter Location [[ChromeDriver: chrome on WINDOWS (7f71abee4d861f56c182b2345766bab3)] -> xpath: (//input[@id='location'])[1]]
+2023-05-19 12:05:738 INFO  HomePage :80 - Select Distance [[ChromeDriver: chrome on WINDOWS (7f71abee4d861f56c182b2345766bab3)] -> xpath: //select[@id='distance']]
+2023-05-19 12:05:986 INFO  HomePage :88 - Click on more search option link [[ChromeDriver: chrome on WINDOWS (7f71abee4d861f56c182b2345766bab3)] -> xpath: //button[@id='toggle-hp-search']]
+2023-05-19 12:05:164 INFO  HomePage :95 - Enter minimum salary 20000
+2023-05-19 12:05:273 INFO  HomePage :100 - Enter Maximum salary 30000
+2023-05-19 12:05:374 INFO  HomePage :105 - Select salary type [[ChromeDriver: chrome on WINDOWS (7f71abee4d861f56c182b2345766bab3)] -> xpath: //select[@id='salarytype']]
+2023-05-19 12:05:441 INFO  HomePage :110 - Select job type Contract
+2023-05-19 12:05:546 INFO  HomePage :115 - Click on find job Button [[ChromeDriver: chrome on WINDOWS (7f71abee4d861f56c182b2345766bab3)] -> xpath: //input[@id='hp-search-btn']]
